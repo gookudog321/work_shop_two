@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/work_shop_two/static/css/main.9a630170.chunk.css",
+    "main.js": "/work_shop_two/static/js/main.59cbd15e.chunk.js",
+    "main.js.map": "/work_shop_two/static/js/main.59cbd15e.chunk.js.map",
+    "runtime-main.js": "/work_shop_two/static/js/runtime-main.e2c70082.js",
+    "runtime-main.js.map": "/work_shop_two/static/js/runtime-main.e2c70082.js.map",
+    "static/js/2.c9bbeee1.chunk.js": "/work_shop_two/static/js/2.c9bbeee1.chunk.js",
+    "static/js/2.c9bbeee1.chunk.js.map": "/work_shop_two/static/js/2.c9bbeee1.chunk.js.map",
+    "index.html": "/work_shop_two/index.html",
+    "precache-manifest.daa6bce489f700c737442a776b0c3f0a.js": "/work_shop_two/precache-manifest.daa6bce489f700c737442a776b0c3f0a.js",
+    "service-worker.js": "/work_shop_two/service-worker.js",
+    "static/css/main.9a630170.chunk.css.map": "/work_shop_two/static/css/main.9a630170.chunk.css.map",
+    "static/js/2.c9bbeee1.chunk.js.LICENSE.txt": "/work_shop_two/static/js/2.c9bbeee1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2c70082.js",
+    "static/js/2.c9bbeee1.chunk.js",
+    "static/css/main.9a630170.chunk.css",
+    "static/js/main.59cbd15e.chunk.js"
+  ]
+}
