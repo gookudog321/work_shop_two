@@ -1,22 +1,28 @@
 {
   "files": {
     "main.css": "/work_shop_two/static/css/main.9a630170.chunk.css",
-    "main.js": "/work_shop_two/static/js/main.59cbd15e.chunk.js",
-    "main.js.map": "/work_shop_two/static/js/main.59cbd15e.chunk.js.map",
+    "main.js": "/work_shop_two/static/js/main.103c0f7d.chunk.js",
+    "main.js.map": "/work_shop_two/static/js/main.103c0f7d.chunk.js.map",
     "runtime-main.js": "/work_shop_two/static/js/runtime-main.e2c70082.js",
     "runtime-main.js.map": "/work_shop_two/static/js/runtime-main.e2c70082.js.map",
-    "static/js/2.c9bbeee1.chunk.js": "/work_shop_two/static/js/2.c9bbeee1.chunk.js",
-    "static/js/2.c9bbeee1.chunk.js.map": "/work_shop_two/static/js/2.c9bbeee1.chunk.js.map",
+    "static/js/2.5aec26a8.chunk.js": "/work_shop_two/static/js/2.5aec26a8.chunk.js",
+    "static/js/2.5aec26a8.chunk.js.map": "/work_shop_two/static/js/2.5aec26a8.chunk.js.map",
     "index.html": "/work_shop_two/index.html",
-    "precache-manifest.daa6bce489f700c737442a776b0c3f0a.js": "/work_shop_two/precache-manifest.daa6bce489f700c737442a776b0c3f0a.js",
+    "precache-manifest.8898e6c692d85e774e5ddc33c84de520.js": "/work_shop_two/precache-manifest.8898e6c692d85e774e5ddc33c84de520.js",
     "service-worker.js": "/work_shop_two/service-worker.js",
     "static/css/main.9a630170.chunk.css.map": "/work_shop_two/static/css/main.9a630170.chunk.css.map",
-    "static/js/2.c9bbeee1.chunk.js.LICENSE.txt": "/work_shop_two/static/js/2.c9bbeee1.chunk.js.LICENSE.txt"
+    "static/js/2.5aec26a8.chunk.js.LICENSE.txt": "/work_shop_two/static/js/2.5aec26a8.chunk.js.LICENSE.txt",
+    "static/media/img-4.jpg": "/work_shop_two/static/media/img-4.0ec923fc.jpg",
+    "static/media/img-5.jpg": "/work_shop_two/static/media/img-5.c64ec5c8.jpg",
+    "static/media/img-6.jpg": "/work_shop_two/static/media/img-6.bd11375f.jpg",
+    "static/media/img-8.jpg": "/work_shop_two/static/media/img-8.d211c298.jpg",
+    "static/media/img-9.jpg": "/work_shop_two/static/media/img-9.523a89f6.jpg",
+    "static/media/video-2.mp4": "/work_shop_two/static/media/video-2.3cb2fa2c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.e2c70082.js",
-    "static/js/2.c9bbeee1.chunk.js",
+    "static/js/2.5aec26a8.chunk.js",
     "static/css/main.9a630170.chunk.css",
-    "static/js/main.59cbd15e.chunk.js"
+    "static/js/main.103c0f7d.chunk.js"
   ]
 }
